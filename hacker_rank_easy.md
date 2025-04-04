@@ -1,0 +1,23 @@
+
+## Easy Python Questions on HackerRank
+
+1. [Say Hello, World! With Python](https://www.hackerrank.com/challenges/py-hello-world)
+2. [Python If-Else](https://www.hackerrank.com/challenges/py-if-else)
+3. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)
+4. [Python: Division](https://www.hackerrank.com/challenges/python-division)
+5. [Loops](https://www.hackerrank.com/challenges/python-loops)
+6. [Write a function](https://www.hackerrank.com/challenges/write-a-function)
+7. [Print Function](https://www.hackerrank.com/challenges/python-print)
+8. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions)
+9. [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list)
+10. [Nested Lists](https://www.hackerrank.com/challenges/nested-list)
+11. [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage)
+12. [Lists](https://www.hackerrank.com/challenges/python-lists)
+13. [Tuples](https://www.hackerrank.com/challenges/python-tuples)
+14. [sWAP cASE](https://www.hackerrank.com/challenges/swap-case)
+15. [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join)
+16. [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name)
+17. [Mutations](https://www.hackerrank.com/challenges/python-mutations)
+18. [Find a string](https://www.hackerrank.com/challenges/find-a-string)
+19. [String Validators](https://www.hackerrank.com/challenges/string-validators)
+20. [Text Alignment](https://www.hackerrank.com/challenges/text-alignment)
